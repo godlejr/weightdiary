@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="dongjoo.second.weightdiary">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+
+    <application
+        android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+
+        android:theme="@style/AppTheme">
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="@string/ad_app_id"/>
+
+
+        <activity android:name=".ui.intro.activity.IntroActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- actvity -->
+        <activity android:hardwareAccelerated="false" android:name=".ui.main.activity.MainActivity"/>
+
+        <activity android:name=".ui.userwrite.activity.UserWriteActivity"
+            android:parentActivityName=".ui.main.activity.MainActivity"/>
+
+        <activity android:name=".ui.historywrite.activity.HistoryWriteActivity"
+            android:parentActivityName=".ui.main.activity.MainActivity"/>
+
+        <activity
+            android:name=".common.dialog.confirmcancel.activity.ConfirmCancelActivity"
+            android:theme="@style/NoTitleDialog" />
+    </application>
+
+</manifest>

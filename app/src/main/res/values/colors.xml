@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="white">#fff</color>
+    <color name="pointColor">#F08080</color>
+<!--ㄴ
+9C7AA6 진보라
+8977AD 연보라
+
+classic blue : 0F4C82
+92B8B1 :mint jin
+#4FC6A7 : mint : 45B5AA
+#F08080 : pinkmully
+
+#2F97DD : blue mully
+
+#8154D1 : pupple
+
+    <color name="pointColor">#3498db</color>
+-->
+    <color name="gray">#eaeaea</color>
+    <color name="red">#D81B60</color>
+    <color name="yellow2">#FF9800</color>
+
+    <color name="darkBlue">#01153C</color>
+
+    <color name="background">#FFF</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="transparentBlack">#88000000</color>
+
+    <color name="darkGray">#999</color>
+    <color name="defaultTextColor">#444444</color>
+</resources>

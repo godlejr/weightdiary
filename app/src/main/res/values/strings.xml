@@ -1,0 +1,162 @@
+<resources>
+    <string name="app_name">초간단 몸무게 일기</string>
+    <string name="dev_email" translatable="false">djkim0644@gmail.com</string>
+
+    <!--BaseView-->
+    <string name="quitSmokingStatements1">담배, 그거 독약입니다</string>
+    <string name="quitSmokingStatements2">결코 흡연하지 말라</string>
+    <string name="quitSmokingStatements3">흡연이 스트레스의 원인이다</string>
+    <string name="quitSmokingStatements4">금연은 마라톤과도 같다</string>
+    <string name="quitSmokingStatements5">죽을 때까지 참아야 한다</string>
+    <string name="quitSmokingStatements6">흡연이 인명을 살상시킨다</string>
+    <string name="quitSmokingStatements7">담배는 사랑의 무덤이다</string>
+    <string name="quitSmokingStatements8">담배는 악마의 잡초다</string>
+    <string name="quitSmokingStatements9">코로 생명을 태우지마라</string>
+    <string name="quitSmokingStatements10">금연만큼 쉬운 일은 없다</string>
+    <string name="quitSmokingStatements11">흡연은 확실한 자살 행위</string>
+
+    <string name="history_delete_confirm">삭제 하시겠습니까?</string>
+    <string name="app_destroy_confirm">종료 하시겠습니까?</string>
+
+
+    <!-- home view-->
+    <string name="home_my_stopsmoking_state">나의 금연 상태</string>
+
+    <string name="home_no_user">금연상태 작성하기</string>
+    <string name="home_stopsmoking_startdate">금연 시작 날짜</string>
+    <string name="home_stopsmoking_period">금연 기간</string>
+    <string name="home_life_extension">연장된 수명</string>
+    <string name="home_save_money">아낀 돈</string>
+
+    <string name="home_my_heath_state">나의 건강 상태</string>
+
+    <string name="home_custom_level1">Level 1. 지옥의 3일을 버텨라</string>
+    <string name="home_custom_level2">Level 2. 한 번의 욕구를 참아라</string>
+    <string name="home_custom_level3">Level 3. 건강을 회복하라</string>
+    <string name="home_custom_level4">Level 4. 방심은 금물이다"</string>
+    <string name="home_custom_level5">Level 5. 금연의 끝은 없다</string>
+
+    <string name="home_stopsmoking_20m">금연 20분 - 혈압 맥박 손발 체온 정상</string>
+    <string name="home_stopsmoking_8h">금연 8시간 - 혈액 일산화탄소 감소 및 산소 증가</string>
+    <string name="home_stopsmoking_24h">금연 24시간 - 심장마비 위험 감소</string>
+    <string name="home_stopsmoking_48h">금연 48시간 - 니코틴 부족 적응 및 후각 미각 상승</string>
+    <string name="home_stopsmoking_72h">금연 72시간 - 기관지 이완 및 폐활량 증가</string>
+
+    <string name="home_stopsmoking_1w">금연 1주 - 기침 가래 입냄새가 적어짐</string>
+    <string name="home_stopsmoking_2w">금연 2주 - 혈액순환 좋아짐</string>
+    <string name="home_stopsmoking_3w">금연 3주 - 기침과 숨 가쁨이 적어짐</string>
+    <string name="home_stopsmoking_4w">금연 4주 - 혈액순환이 지속적으로 개선됨</string>
+
+    <string name="home_stopsmoking_6w">금연 6주 - 폐기능의 향상을 느낌</string>
+    <string name="home_stopsmoking_2m">금연 2개월 - 유산소 운동이 쉬워짐</string>
+    <string name="home_stopsmoking_2_5m">금연 2.5개월 - 폐기능 향상 및 욕구 절제력 증가</string>
+    <string name="home_stopsmoking_3m">금연 3개월 - 폐기능 30% 향상</string>
+
+    <string name="home_stopsmoking_4_5m">금연 4.5개월 - 폐기능 50% 향상 및 기력 회복력 증가</string>
+    <string name="home_stopsmoking_6m">금연 6개월 - 폐기능 70% 향상</string>
+    <string name="home_stopsmoking_9m">금연 9개월 - 폐 섬모 재생 및 폐 정상화 진행</string>
+    <string name="home_stopsmoking_1y">금연 1년 - 심장마비 위험 흡연자 비해 절반</string>
+    <string name="home_stopsmoking_5y">금연 5년 - 심장마비 위험 비흡연자와 거의 동일</string>
+    <string name="home_stopsmoking_10y">금연 10년 - 폐암 위험이 흡연자의 절반</string>
+
+
+    <!--histories view-->
+    <string name="history_all_selection">전체선택</string>
+    <string name="history_selection_delete">선택삭제</string>
+    <string name="history_no_items">금연 일기를 작성해주세요</string>
+
+    <string name='history_write_question1'>오늘 금연은 성공했나요?</string>
+    <string name='history_write_hint'>하루의 일기를 써보세요</string>
+
+    <!--setting view-->
+    <string name='setting_user_write'>금연상태 작성하기</string>
+    <string name='setting_promotion'>금연 홍보하기</string>
+    <string name='setting_email'>문의 메일 보내기</string>
+    <string name='setting_comment'>초간단 금연일기 오구오구 해주기</string>
+
+
+    <!--user view-->
+    <string name='user_write_intro'>당신의 금연을 응원합니다</string>
+    <string name='user_stopsmoking_startdate'>금연 시작 날짜</string>
+    <string name='user_stopsmoking_starttime'>금연 시작 시간</string>
+    <string name='user_mean_smoking_count'>하루 평균 흡연량 (개비)</string>
+    <string name="user_cigar_price">담배 한갑 가격</string>
+
+
+
+    <!--action-->
+    <string name="action_write">작성</string>
+    <string name="action_write_complete">작성 완료</string>
+    <string name="action_confirm">확인</string>
+    <string name="action_cancel">취소</string>
+    <string name="action_complete">완료</string>
+
+
+    <!-- word fix-->
+    <string name="word_fix_stopsmoking">금연</string>
+    <string name="word_fix_date_count">일차</string>
+
+    <string name="word_fix_days">일</string>
+    <string name="word_fix_hours">시간</string>
+    <string name="word_fix_minutes">분</string>
+    <string name="word_fix_passed">경과</string>
+    <string name="word_fix_extension">연장</string>
+    <string name="word_fix_currency">원</string>
+
+
+    <!-- title -->
+    <string name="title_history_write">금연 일기 작성</string>
+    <string name="title_main">초간단 금연일기</string>
+    <string name="title_user_write">나의 금연 상태 작성</string>
+
+    <!-- custom-->
+    <string name="custom_level1">Lv.1 지옥의 3일</string>
+    <string name="custom_level2">Lv.2 욕구의 인내</string>
+    <string name="custom_level3">Lv.3 건강의 회복</string>
+    <string name="custom_level4">Lv.4 방심 금지령"</string>
+    <string name="custom_level5">Lv.5 금연 끝판왕</string>
+
+
+    <!-- system-->
+    <string name="system_error_msg">시스템이 불안정합니다</string>
+
+    <!-- tab -->
+    <string name="tab_title1">홈</string>
+    <string name="tab_title2">일기</string>
+    <string name="tab_title3">설정</string>
+
+    <!-- URL-->
+    <string name="url_playstore" translatable="false">https://play.google.com/store/apps/details?id=dongjoo.second.quitsmoking</string>
+    <string name="url_blog_promotion" translatable="false">https://dongjoo-kim.tistory.com/61</string>
+
+    <!--ad mob dev-->
+    <string name="ad_app_id" translatable="false">ca-app-pub-5871533778352436~1368349653</string>
+
+    <string name="ad_banner_dev" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_banner_prod_1" translatable="false">ca-app-pub-3940256099942544/630097811</string>
+    <string name="ad_banner_prod_2" translatable="false">ca-app-pub-3940256099942544/630097811</string>
+    <string name="ad_banner_prod_3" translatable="false">ca-app-pub-3940256099942544/630097811</string>
+    <string name="ad_banner_prod_4" translatable="false">ca-app-pub-3940256099942544/630097811</string>
+    <string name="ad_banner_prod_5" translatable="false">ca-app-pub-3940256099942544/630097811</string>
+    <string name="ad_banner_prod_6" translatable="false">ca-app-pub-3940256099942544/630097811</string>
+
+    <string name="ad_front_dev" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="ad_front_prod_1" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+
+    <!--ad mob prod-->
+
+<!--    <string name="ad_app_id" translatable="false">ca-app-pub-5871533778352436~1368349653</string>-->
+
+<!--    <string name="ad_banner_dev" translatable="false">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="ad_banner_prod_1" translatable="false">ca-app-pub-5871533778352436/2845082855</string>-->
+<!--    <string name="ad_banner_prod_2" translatable="false">ca-app-pub-5871533778352436/6401184480</string>-->
+<!--    <string name="ad_banner_prod_3" translatable="false">ca-app-pub-5871533778352436/1685056186</string>-->
+<!--    <string name="ad_banner_prod_4" translatable="false">ca-app-pub-5871533778352436/7522694463</string>-->
+<!--    <string name="ad_banner_prod_5" translatable="false">ca-app-pub-5871533778352436/2270367780</string>-->
+<!--    <string name="ad_banner_prod_6" translatable="false">ca-app-pub-5871533778352436/7331122773</string>-->
+
+<!--    <string name="ad_front_dev" translatable="false">ca-app-pub-3940256099942544/1033173712</string>-->
+<!--    <string name="ad_front_prod_1" translatable="false">ca-app-pub-5871533778352436/6362667794</string>-->
+
+
+</resources>
